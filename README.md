@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Pomodoro simples para organização de projeto
+> Pomodoro simples de exemplo de organização de projeto React (CRA) + Typescript + React Toolkit + Material UI. 
 
 ## Install
 
